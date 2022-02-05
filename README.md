@@ -1,7 +1,7 @@
 # vk_api_vkscript
 
-A little experiment with transpilation of python function code
- into [VKScript](https://vk.com/dev/execute)
+Небольшое тестирование перевода на другой язык (командное выполнение программы)
+
 
 ```python
 import vk_api
